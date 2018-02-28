@@ -1,0 +1,22 @@
+{
+  "name": "eventlistener",
+  "version": "1.0.0",
+  "description": "manage eventlistener created by DeviceEventEmitter module from react-Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaxMin-sheeper/EventListener.git"
+  },
+  "keywords": [
+    "13453045245Liumin"
+  ],
+  "author": "liumin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaxMin-sheeper/EventListener/issues"
+  },
+  "homepage": "https://github.com/MaxMin-sheeper/EventListener#readme"
+}
