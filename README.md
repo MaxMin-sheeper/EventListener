@@ -18,9 +18,9 @@ this.subscription.remove();
 2、链式删除监听事件
 3、得到所有注册的监听事件
 
-##使用方法
+## 使用方法
 
-### 引入模块儿
+#### 引入模块儿
 
 import EventListener from './index';
 
